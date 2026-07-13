@@ -1,0 +1,6 @@
+body { font-familiy: sans-serif; background: #e3f2fd; text-align: center; }
+
+h1 { color: #1976d2; }
+
+.container { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;}
+
