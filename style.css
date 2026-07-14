@@ -4,3 +4,22 @@ h1 { color: #1976d2; }
 
 .container { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;}
 
+.card { width: 250px; background: white; border-radius: 15px; padding:15px; box-shadow: 0 5px 10px raba (0,0,0,0.2);
+       transition: transform 0.3s; text-align: left; }
+
+.card:hover { translateY(-10px); }
+
+.card img { width:100%; border-radius:10px }
+
+.card h2 { color: #1976d2; }
+
+.card h3 { margin-top: 10px; front-size: 16px }
+
+.card ul { padding-left: 20px; }
+
+.card li {front-size: 14px; }
+
+
+
+
+
