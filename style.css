@@ -23,6 +23,8 @@ h1 { color: #1976d2; }
 
 .pixer-text { margin-bottom: 20px }
 
+.container { disply: flex; flex-wrap: wrap; justify-content: center; gap:20px; }
+
 
 
 
