@@ -32,7 +32,10 @@ h1 { color: #1976d2; }
 .info-box h3 { margin-top: 15px; color: #333; }
 
 
+.btn { display: inline-block; margin-top: 20px; padding: 12px 25px; background: #ff4b5c; color: white;
+      text-decoration: none; border-radius: 25px; font-weight: bold; taransition: 0.3; }
 
+.bth:hover {background: #ff1e3c; transform: scale(1,1); }
 
 
 
